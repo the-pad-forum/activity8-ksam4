@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import DP from '../images/profile-picture.png';
+import DP from '../images/K SAM.jpg';
 import styles from '../styles/Header.module.css';
 
 const Header = () => {
